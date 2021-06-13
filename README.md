@@ -1,21 +1,16 @@
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-    <font size="6">Jisho Lookup 🗾</font>
-
-  <p align="center">
-    A Chrome extension to look up Japanese words and kanji on jisho.org
-    <br />
-    <a href="https://chrome.google.com/webstore/detail/jisho-lookup/khaccedcoiknbmhhjcalgaobbinhdhgh">View App</a>
-    ·
-    <a href="https://github.com/mussinbenarbia/jisholookup/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/mussinbenarbia/jisholookup/issues">Request Feature</a>
-  </p>
-</p>
+  <summary><h1 style="display: inline-block">Jisho Lookup 🗾 </h1></summary>
+  A Chrome extension to look up Japanese words and kanji on jisho.org
+  <br>
+  <br>
+  
+  <ul>
+    <li> <a href="https://chrome.google.com/webstore/detail/jisho-lookup/khaccedcoiknbmhhjcalgaobbinhdhgh">View App</a></li>
+    <li><a href="https://github.com/mussinbenarbia/jisholookup/issues">Report Bug</a></li>
+    <li><a href="https://github.com/mussinbenarbia/jisholookup/issues">Request Feature</a></li>
+  </ul>
 
 <!-- TABLE OF CONTENTS -->
-<details open="open">
+
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
@@ -24,7 +19,7 @@
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li> 
   </ol>
-</details>
+
 
 <!-- ABOUT THE PROJECT -->
 
